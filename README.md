@@ -27,7 +27,3 @@ This repository is my sandbox for learning **AI-native product engineering**. I 
   - Python backend for server and API connectors  
   - Modular project design to support future extensions  
 
----
-
-## Takeaways  
-This lab shows I can quickly pick up **multiple frameworks**, adapt them to real use cases, and package solutions across local and cloud environments. It reflects both technical breadth (MCP, Docker, LangChain/LangGraph, Claude/OpenAI) and a strong motivation to **turn LLM concepts into working applications**.
